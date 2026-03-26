@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/css/main.324d6592.css",
-    "main.js": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/main.cf9a35a8.js",
+    "main.css": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/css/main.82db8724.css",
+    "main.js": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/main.3338ea6b.js",
     "static/js/453.db959cab.chunk.js": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/453.db959cab.chunk.js",
+    "static/media/GothamCond-Medium.otf": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/GothamCond-Medium.4299904a576b0e9a004a.otf",
+    "static/media/GothamCond-Bold.otf": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/GothamCond-Bold.979754aeae1fa29617a3.otf",
     "static/media/roboto-latin-500-normal.woff2": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-400-normal.woff2": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-latin-400-normal.b009a76ad6afe4ebd301.woff2",
@@ -60,12 +62,12 @@
     "static/media/roboto-greek-ext-300-normal.woff": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-greek-ext-300-normal.392a45a84c081c4b412d.woff",
     "static/media/roboto-greek-ext-400-normal.woff": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
-    "main.324d6592.css.map": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/css/main.324d6592.css.map",
-    "main.cf9a35a8.js.map": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/main.cf9a35a8.js.map",
+    "main.82db8724.css.map": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/css/main.82db8724.css.map",
+    "main.3338ea6b.js.map": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/main.3338ea6b.js.map",
     "453.db959cab.chunk.js.map": "/axa-sigorta-milliyet-yilin-sporcusu-odulleri/static/js/453.db959cab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.324d6592.css",
-    "static/js/main.cf9a35a8.js"
+    "static/css/main.82db8724.css",
+    "static/js/main.3338ea6b.js"
   ]
 }
